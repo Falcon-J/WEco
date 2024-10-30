@@ -149,7 +149,7 @@ export const listOfQuestions = [
       "more competition, more predation",
       "more competition, less predation",
     ],
-    correct: 1,
+    correct: 2,
     id: 19,
   },
   {
