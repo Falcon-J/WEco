@@ -197,7 +197,7 @@ export const listOfQuestions = [
       "both participants are benefitted",
       "both participants are unharmed",
     ],
-    correct: 0,
+    correct: 3,
     id: 25,
   },
   {
