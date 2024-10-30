@@ -298,7 +298,7 @@ export const listOfQuestions = [
       "spindle pyramid of numbers",
       "dumb-bell pyramid of numbers",
     ],
-    correct: 0,
+    correct: 2,
     id: 36,
   },
   {
