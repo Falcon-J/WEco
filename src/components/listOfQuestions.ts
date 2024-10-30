@@ -430,7 +430,7 @@ export const listOfQuestions = [
       "disclimax",
       "catastrophic climax",
     ],
-    correct: 2,
+    correct: 3,
     id: 51,
   },
   {
