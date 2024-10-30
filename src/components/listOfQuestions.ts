@@ -445,8 +445,14 @@ export const listOfQuestions = [
     id: 52,
   },
   {
-    question: "The lithosere primary succession begins with",
-    options: ["Crustose lichen", "Foliose lichen", "Moss", "Woodland"],
+    question:
+      "Which of these depicts correctly the lithosere primary succession? ",
+    options: [
+      "Rock → Crustose lichen → Foliose lichen → Moss →Herbaceous stage → Shrub → Woodland → Climax",
+      "Rock → Foliose lichen → Crustose lichen → Moss →Herbaceous stage → Shrub → Woodland → Climax ",
+      "Moss → Crustose lichen → Foliose lichen → Rock →Herbaceous stage → Shrub → Woodland → Climax ",
+      "Rock → Crustose lichen → Foliose lichen → Shrub →Herbaceous stage → Moss → Woodland → Climax",
+    ],
     correct: 0,
     id: 53,
   },
