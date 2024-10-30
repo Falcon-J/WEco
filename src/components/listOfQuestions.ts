@@ -38,7 +38,7 @@ export const listOfQuestions = [
       "Higher reproductive rate means higher fitness.",
       "Fitness should be measured across several generations.",
     ],
-    correct: 1,
+    correct: 2,
     id: 6,
   },
   {
