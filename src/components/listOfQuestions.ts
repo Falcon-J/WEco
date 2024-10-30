@@ -399,7 +399,7 @@ export const listOfQuestions = [
   },
   {
     question:
-      "Physiological longevity is generally greater than ecological longevity.",
+      "Physiological longevity is generally greater than or equal to ecological longevity.",
     options: ["true", "false"],
     correct: 0,
     id: 48,
