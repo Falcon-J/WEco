@@ -509,7 +509,7 @@ export const listOfQuestions = [
       "greater than realised niche",
       "equal to realised niche",
       "less than realised niche",
-      "cannot be determined",
+      "a or b",
     ],
     correct: 0,
     id: 59,
