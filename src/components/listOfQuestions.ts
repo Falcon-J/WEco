@@ -511,7 +511,7 @@ export const listOfQuestions = [
       "less than realised niche",
       "a or b",
     ],
-    correct: 0,
+    correct: 3,
     id: 59,
   },
   {
