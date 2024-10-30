@@ -38,20 +38,16 @@ export default function Home() {
           Shuffle
         </button>
         <button
-          className={`transition px-6 py-2 rounded-lg shadow-md ${
-            showAll ? "bg-green-600" : "bg-green-500"
-          } text-white hover:bg-green-700 hover:shadow-lg`}
+          className={`transition px-6 py-2 rounded-lg shadow-md  bg-green-600 text-white hover:bg-green-700 hover:shadow-lg`}
           onClick={() => setShowAll((prev) => !prev)}
         >
-          {showAll ? "Hide All" : "Show All"}
+          Show All
         </button>
         <button
-          className={`transition px-6 py-2 rounded-lg shadow-md ${
-            clearAll ? "bg-red-600" : "bg-red-500"
-          } text-white hover:bg-red-700 hover:shadow-lg`}
-          onClick={() => setClearAll((prev) => !prev)}
+          className={`transition w-32 px-6 py-2 rounded-lg shadow-md bg-red-500 text-white hover:bg-red-700 hover:shadow-lg`}
+          onClick={() => setClearAll((prev) => !prev)} // Call the clear function directly
         >
-          {clearAll ? "Unclear All" : "Clear All"}
+          Clear All
         </button>
       </div>
 
