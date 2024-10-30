@@ -638,7 +638,7 @@ export const listOfQuestions = [
     question:
       "We prefer those areas for the creation of a conservation reserve where the level of threat is",
     options: ["very high", "medium", "very low", "non-existent"],
-    correct: 2,
+    correct: 1,
     id: 73,
   },
   {
@@ -748,7 +748,7 @@ export const listOfQuestions = [
     question:
       "___ is used to identify which potential impacts are relevant to assess.",
     options: ["screening", "scoping", "reporting", "review"],
-    correct: 0,
+    correct: 1,
     id: 85,
   },
   {
