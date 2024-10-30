@@ -92,7 +92,7 @@ export const listOfQuestions = [
   {
     question: "The laboratory approach to Ecology uses",
     options: ["equations", "models", "observations", "experiments"],
-    correct: 1,
+    correct: 3,
     id: 13,
   },
   {
@@ -103,7 +103,7 @@ export const listOfQuestions = [
       "gamma (γ) biodiversity",
       "delta (δ) biodiversity",
     ],
-    correct: 1,
+    correct: 2,
     id: 14,
   },
   {
