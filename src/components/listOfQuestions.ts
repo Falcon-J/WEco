@@ -168,7 +168,7 @@ export const listOfQuestions = [
   {
     question: "Egrets with buffaloes are an example of",
     options: ["colony", "commensalism", "protocooperation", "allelopathy"],
-    correct: 2,
+    correct: 1,
     id: 22,
   },
   {
@@ -197,7 +197,7 @@ export const listOfQuestions = [
       "both participants are benefitted",
       "both participants are unharmed",
     ],
-    correct: 3,
+    correct: 2,
     id: 25,
   },
   {
